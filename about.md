@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey! My name's Sam.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I am:
+* An NYU student
+* Have celiac's disease (can't eat gluten)
+* An avid rock climber
