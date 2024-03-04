@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 12   | https://github.com/matplotlib/matplotlib/pull/27783    | Matplotlib Documentation    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+|  Mar 2   | https://en.wikipedia.org/w/index.php?title=Jet_Lag:_The_Game&oldid=1211539496    | "Jet Lag: The Game" Wikipedia page    |  Added a new claim to the background section    |
+|  Mar 3   | https://en.wikipedia.org/w/index.php?title=Adobe_PhotoDeluxe&oldid=1211696002    | "Adobe PhotoDeluxe" Wikipedia page    |  Added citation    |
