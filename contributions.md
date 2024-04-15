@@ -27,3 +27,5 @@ Replace the first row with your own contribution.
 |  Mar 3   | https://en.wikipedia.org/w/index.php?title=Adobe_PhotoDeluxe&oldid=1211696002    | "Adobe PhotoDeluxe" Wikipedia page    |  Added citation    |
 |  Mar 10   | https://github.com/ossd-s24/wiki/wiki/Bio-of-a-FOSS-person/a85ce07c093f4c83156bc353ae3dd15953089f9d    | Class GitHub Organization    |  Fixed a broken link    |
 |  April 6  | https://github.com/joannakl/ossd/issues/111    | Issue with class site    |   Noted a broken link    |
+|  April 6  | https://github.com/ossd-s24/wiki/wiki/The-Cathedral-and-the-Bazaar/0983af7cc1a463d148e3b36ead48e5bfd15d9d47    | Issue with class site    |   Fixed formatting    |
+
