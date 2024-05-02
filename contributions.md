@@ -28,4 +28,6 @@ Replace the first row with your own contribution.
 |  Mar 10   | https://github.com/ossd-s24/wiki/wiki/Bio-of-a-FOSS-person/a85ce07c093f4c83156bc353ae3dd15953089f9d    | Class GitHub Organization    |  Fixed a broken link    |
 |  April 6  | https://github.com/joannakl/ossd/issues/111    | Issue with class site    |   Noted a broken link    |
 |  April 6  | https://github.com/ossd-s24/wiki/wiki/The-Cathedral-and-the-Bazaar/0983af7cc1a463d148e3b36ead48e5bfd15d9d47    | Issue with class site    |   Fixed formatting    |
-
+|  May 2  | https://github.com/joannakl/ossd/pull/131 | Issue with class site | Fixed typo 
+|  May 2  | https://github.com/joannakl/ossd/pull/132 | Issue with class site | Fixed typo (updated date)
+|  May 2  | https://en.wikipedia.org/w/index.php?title=Jet_Lag:_The_Game&oldid=1221898793 | "Jet Lag: The Game" Wikipedia page  | Updated an image caption
